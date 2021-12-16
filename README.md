@@ -1,4 +1,4 @@
-# practicalA5
+# Practical A-5
 
 A package providing a nested function demo showing how you write complex functions, and then simpler functions that use limited aspects
 of the more complex functions.
